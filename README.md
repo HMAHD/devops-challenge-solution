@@ -2,9 +2,9 @@
 
 ## 🌟 Overview
 
-Welcome to our cloud-native multi-service deployment project! This repository contains everything you need to set up a robust, scalable web infrastructure on AWS using Docker, Nginx, and modern DevOps practices.
+This repository contains all the resources required to deploy a robust and scalable web infrastructure on AWS using Docker, Nginx, and modern DevOps practices.
 
-![Architecture Diagram](./architecture_diagram.png)
+![Architecture Diagram](./Assets/architecture_diagram.png)
 
 ## 🗂️ Repository Contents
 
@@ -29,8 +29,8 @@ chmod +x server_setup.sh
 
 ### 3. Clone Repository
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/HMAHD/devops-challenge-solution.git
+cd devops-challenge-solution
 ```
 
 ### 4. Docker Setup
@@ -90,25 +90,5 @@ To scale the services:
 
 ---
 
-Built with ❤️ by [Your Name/Team]
+Built with ❤️ by Akash Hasendra
 
-```
-
-This README provides a comprehensive overview of your project, including:
-
-1. A brief introduction and architecture diagram
-2. List of key files in the repository
-3. Detailed setup instructions
-4. Information on automated updates
-5. How to access the services
-6. Links to troubleshooting and contribution guides
-7. Basic info on monitoring and scaling
-8. License information
-
-You can further customize this README by:
-- Adding badges (e.g., build status, version)
-- Including more detailed configuration options
-- Adding a section on project roadmap or future features
-- Providing contact information or links to related projects
-
-Remember to create the referenced files (TROUBLESHOOTING.md, CONTRIBUTING.md, LICENSE) and add your actual architecture diagram image to make the README complete and fully functional.
