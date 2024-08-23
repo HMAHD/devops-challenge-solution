@@ -125,3 +125,12 @@ nbproject
 ################################################
 
 DevOpsAssessment-VM.pem
+
+################################################
+# Environment Variables
+#
+# The .env file is included in the repository
+# because it contains non-sensitive information
+# and provides a quick setup for others to run
+# the project without additional configuration.
+################################################
