@@ -29,7 +29,7 @@ chmod +x server_setup.sh
 
 ### 3. Clone Repository
 ```bash
-git clone [https://github.com/HMAHD/devops-challenge-solution](https://github.com/HMAHD/devops-challenge-solution).git
+git clone https://github.com/HMAHD/devops-challenge-solution.git
 cd devops-challenge-solution
 ```
 
