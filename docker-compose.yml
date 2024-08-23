@@ -12,6 +12,7 @@ services:
       - API_HOST=${API_HOST}
     depends_on:
       - api
+    network_mode: "host"
 
   api:
     build:
@@ -26,6 +27,7 @@ services:
       db:
       # Health check
         condition: service_healthy
+    network_mode: "host"
 
   db:
     image: postgres:13
@@ -43,7 +45,7 @@ services:
       interval: 5s
       timeout: 5s
       retries: 5
-
+      
   nginx:
     image: nginx:latest
     ports:
