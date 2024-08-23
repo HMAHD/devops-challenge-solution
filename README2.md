@@ -79,7 +79,7 @@ This project demonstrates a comprehensive DevOps setup using Docker, Nginx, and 
 Nginx Configuration
 
 Create `nginx.conf` in the project root:
-
+```
 events {
 worker_connections 1024;
 }
@@ -88,7 +88,6 @@ http {
 upstream web {
 server web:3000;
 }
-
     upstream api {
         server api:4000;
     }
@@ -112,9 +111,9 @@ server web:3000;
     }
 
 }
-
+```
 Docker Compose Configuration
-
+```
 version: '3'
 services:
 web:
@@ -134,7 +133,7 @@ image: nginx:latest
 ports: - "80:80"
 volumes: - ./nginx.conf:/etc/nginx/nginx.conf:ro
 depends_on: - web - api
-
+```
 🔍 Troubleshooting
 
 - Issue: Container not starting
