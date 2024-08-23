@@ -90,25 +90,5 @@ To scale the services:
 
 ---
 
-Built with ❤️ by [Your Name/Team]
+Built with ❤️ by Akash Hasendra
 
-```
-
-This README provides a comprehensive overview of your project, including:
-
-1. A brief introduction and architecture diagram
-2. List of key files in the repository
-3. Detailed setup instructions
-4. Information on automated updates
-5. How to access the services
-6. Links to troubleshooting and contribution guides
-7. Basic info on monitoring and scaling
-8. License information
-
-You can further customize this README by:
-- Adding badges (e.g., build status, version)
-- Including more detailed configuration options
-- Adding a section on project roadmap or future features
-- Providing contact information or links to related projects
-
-Remember to create the referenced files (TROUBLESHOOTING.md, CONTRIBUTING.md, LICENSE) and add your actual architecture diagram image to make the README complete and fully functional.
