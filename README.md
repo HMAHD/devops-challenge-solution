@@ -2,7 +2,7 @@
 
 ## 🌟 Overview
 
-Welcome to our cloud-native multi-service deployment project! This repository contains everything you need to set up a robust, scalable web infrastructure on AWS using Docker, Nginx, and modern DevOps practices.
+This repository contains all the resources required to deploy a robust and scalable web infrastructure on AWS using Docker, Nginx, and modern DevOps practices.
 
 ![Architecture Diagram](./Assets/architecture_diagram.png)
 
