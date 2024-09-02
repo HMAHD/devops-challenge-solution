@@ -1,6 +1,6 @@
 DevOps Challenge Apps
 
-![Project Banner](https://via.placeholder.com/1200x300?text=DevOps+Challenge+Apps)
+![Project Banner](https://github.com/HMAHD/devops-challenge-solution/blob/main/Assets/diagram.png)
 
 📌 Table of Contents
 
